@@ -1,0 +1,16 @@
+
+{
+    "name": "react-indicator",
+    "version": "0.0.1",
+    "description": "React component animation indicator.",
+    "main": "indicator.js",
+    "keywords": [
+      "reactjs",
+      "indicator",
+      "react",
+      "react indicator"
+    ],
+    "url" : "https://github.com/null-none/react-indicator",
+    "author": "Dmitry Kalinin",
+    "license": "MIT"
+  }
